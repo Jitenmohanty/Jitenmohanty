@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Jitenmohanty
-- 👀 I’m interested in codeing..
+- 👀 I’m interested in coding..
 - 🌱 I’m currently learning and finding job.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
