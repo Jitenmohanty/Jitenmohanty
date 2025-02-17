@@ -1,42 +1,74 @@
-<h1 align="center">Hi 👋, I'm Jiten Mohanty</h1>
-<h3 align="center">I am a passionate frontend developer based in India, with a strong foundation in creating dynamic and responsive user interfaces. In addition to my frontend skills, I am also a fullstack web developer, proficient in building scalable and robust web applications. With expertise in both client-side and server-side technologies, I strive to deliver high-quality, user-friendly solutions across various platforms</h3>
+# Hi there 👋, I'm Jiten Mohanty
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jitenmohanty&label=Profile%20views&color=0e75b6&style=flat" alt="jitenmohanty" /> </p>
+*Last Updated: 2025-02-17 10:30:48 (UTC)*
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jitenmohanty" alt="jitenmohanty" /></a> </p>
+## About Me
+As a dedicated full-stack web developer, I possess a comprehensive skill set spanning both frontend and backend technologies. With a solid foundation in HTML, CSS, JavaScript, as well as backend frameworks like Node.js, Express, and database management with MongoDB, I excel in building dynamic and scalable web applications.
 
-<p align="left"> <a href="https://twitter.com/jitenmohantydev?t=gijbgi3xslyioa5ng4oxww&s=09" target="blank"><img src="https://img.shields.io/twitter/follow/jitenmohantydev?t=gijbgi3xslyioa5ng4oxww&s=09?logo=twitter&style=for-the-badge" alt="jitenmohantydev?t=gijbgi3xslyioa5ng4oxww&s=09" /></a> </p>
+## Technical Skills
+![Skills](https://skillicons.dev/icons?i=js,ts,html,css,py,java,cpp,react,nodejs,express,nextjs,tailwind,bootstrap,redux,mongodb,postgres,redis,git,github,aws,docker,prisma,vscode,postman,linux&theme=dark)
 
-- 🔭 I’m currently working on **ATS Project**
+## Projects
+### E-Commerce
+- **Frontend**: React.js and Redux for state management, ensuring a dynamic and responsive user interface.
+- **Backend**: Node.js and Express to build a robust and scalable server-side application.
+- **Design**: Employed Tailwind CSS for a modern and streamlined user interface design.
+- **Payment Integration**: Integrated Stripe for secure and efficient payment processing.
+- **Email Templates**: Implemented email templates for order confirmation, providing customers with detailed and professional communication.
+- **Database**: MongoDB used as a database with Mongoose as an ORM tool for DB interaction.
+- **Features**: Developed a comprehensive e-commerce app featuring all standard functionalities.
+- **Live**: [Live-Link](#)
+- **GitHub**: [GitHub-Link](#)
 
-- 🌱 I’m currently learning **Next JS, Gsap, ThreeJs, Figma**
+### Fullstack Note App
+- **Frontend**: React.js and Bootstrap, ensuring a dynamic and responsive user interface.
+- **Backend**: Node.js and Express to build a robust and scalable server-side application, with JWT authentication system.
+- **Database**: MongoDB used as a database with Mongoose as an ORM tool.
+- **Features**: Users can add, update, and delete their todos with a cool UI.
+- **Live**: [Live-Link](#)
+- **GitHub**: [GitHub-Link](#)
 
-- 👯 I’m looking to collaborate on **Next JS Applications**
+### Feedback System
+- **Frontend**: Next.js with NextAuth for secure authentication.
+- **Database**: MongoDB managed with Mongoose ORM to handle robust authentication systems.
+- **Features**: Implemented email and password-based user registration with two-step verification. Enabled users to store and edit their reviews within the app. Utilized AI-powered Gemini to generate diverse and insightful reviews.
+- **Live**: [Live-Link](#)
+- **GitHub**: [GitHub-Link](#)
 
-- 👨‍💻 All of my projects are available at [https://portfolio-react-me.vercel.app/](https://portfolio-react-me.vercel.app/)
+## Certifications
+- **NPTEL**: Cleared courses on IoT, Cloud Computing, and AI
+- **PieInfo Com**: Intern on Java
+- **Coding Ninjas**: Core Java Excellence with DSA, FrontEnd Excellence, React JS Excellence, BackEnd on NodeJS Excellence
+- **Crash Course**: Full stack web development @CodingNinjas
 
-- 💬 Ask me about **React,Node,Express,MongoDb,Taiwind Css,Redux**
+## Work Experience
+- **Fullstack Developer** (Daya Consultancy Bhubaneswar)
+  - Developed fullstack web applications using Node.js, React, Express, and MongoDB, with file handling through Multer and caching with Redis. Collaborated on optimizing performance and building scalable solutions.
+  - **Duration**: 09/2024 - Present
 
-- 📫 How to reach me **jitenmohantyaz@gmail.com**
+## Education
+- **Biju Patnaik University, Rourkela**
+  - MCA (Computer Application) CGPA 8.89
+  - **Duration**: 07/2020 – 08/2022
+- **Utkal University, Bhubaneswar**
+  - BSC (Mathematics) CGPA 7.04
+  - **Duration**: 07/2016 – 08/2019
 
-- 📄 Know about my experiences [https://ninjasfiles.s3.amazonaws.com/FrontEndDev%20Resume%20Nov.pdf_6a0741ccebda1ec0ec3b83c8ac2b8c3c/FrontEndDev%20Resume%20Nov.pdf](https://ninjasfiles.s3.amazonaws.com/FrontEndDev%20Resume%20Nov.pdf_6a0741ccebda1ec0ec3b83c8ac2b8c3c/FrontEndDev%20Resume%20Nov.pdf)
+## Contact Me
+- **Phone**: +91-8637246237
+- **Email**: [jitenmohantyaz@gmail.com](mailto:jitenmohantyaz@gmail.com)
+- **LinkedIn**: [Jiten Mohanty](https://www.linkedin.com/in/jiten-mohanty/)
+- **GitHub**: [Jitenmohanty](https://github.com/Jitenmohanty)
+- **Portfolio**: [Portfolio](https://portfolio-react-me.vercel.app/)
+- **X**: [JitenMohantyDev](https://x.com/JitenMohantyDev?t=pr7mvaImZ3S6F2Ph2uY4kA&s=09)
 
-- ⚡ Fun fact **I can switch from building stunning user interfaces to handling complex backend logic faster than you can say "fullstack developer!**
+## GitHub Stats
+![Jiten's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jitenmohanty&show_icons=true&theme=radical)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/jitenmohantydev?t=gijbgi3xslyioa5ng4oxww&s=09" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="jitenmohantydev?t=gijbgi3xslyioa5ng4oxww&s=09" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/jiten-mohanty/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jiten-mohanty/" height="30" width="40" /></a>
-<a href="https://codesandbox.com/jitenmohanty" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="jitenmohanty" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/https://auth.geeksforgeeks.org/user/jitenmohantyaz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://auth.geeksforgeeks.org/user/jitenmohantyaz" height="30" width="40" /></a>
-</p>
+## Top Languages
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Jitenmohanty&layout=compact&theme=radical)
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://appwrite.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/appwriteio/appwriteio-icon.svg" alt="appwrite" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://babeljs.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://materializecss.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/prplx/svg-logos/5585531d45d294869c4eaab4d7cf2e9c167710a9/svg/materialize.svg" alt="materialize" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> <a href="https://webpack.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/> </a> </p>
+## Commit Ranking
+![Commit Ranking](https://ghchart.rshah.org/Jitenmohanty)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jitenmohanty&show_icons=true&locale=en&layout=compact" alt="jitenmohanty" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jitenmohanty&show_icons=true&locale=en" alt="jitenmohanty" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jitenmohanty&" alt="jitenmohanty" /></p>
-
+Thank you for visiting my profile! Feel free to reach out if you want to collaborate on a project or just want to say hi. 😊
